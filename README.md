@@ -6,7 +6,12 @@ We truly believe that technology is the heart of the company, so here you will f
 
 If you are here, it means you are interested in joining us. :smile:
 
-#### Find out more about us:
+### Recruitment process
+Are you slightest curious about our hiring process? Read the following:
+<br/>
+<br/>
+
+### Find out more about us:
 If you are interested in knowing more about our culture, day to day activities and participating in events, don't forget to follow these pages.
 * [Linkedin](https://www.linkedin.com/company/2624908/admin/)
 * [Meetup](https://www.meetup.com/pt-BR/Gympass-Tecnology/)
