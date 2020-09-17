@@ -1,12 +1,20 @@
 ## Engineering at Gympass
 
-Gympass is here to defeat inactivity and to help you find an activity to love. Spanning across 14 countries with over 800 activities, Gympass partners with companies to offer their employees unlimited access to the world's largest fitness network. Our company has over 1000 employees worldwide fighting to make the world a healthier place
+Gympass is here to defeat inactivity and to help you find an activity to love. Spanning across 12 countries with over 800 activities, Gympass partners with companies to offer their employees unlimited access to the world's largest fitness network. Our company has over 1000 employees worldwide fighting to make the world a healthier place.
 
 We truly believe that technology is the heart of the company, so here you will find passionate engineers that are always looking for delivering top-notch solutions.
 
 If you are here, it means you are interested in joining us. :smile:
 
-This is a brief summary of how is the common daily life of a software engineer at Gympass. You will have the opportunity to work with:
+#### Find out more about us:
+If you are interested in knowing more about our culture, day to day activities and participating in events, don't forget to follow these pages.
+* [Linkedin](https://www.linkedin.com/company/2624908/admin/)
+* [Meetup](https://www.meetup.com/pt-BR/Gympass-Tecnology/)
+* [Medium](https://medium.com/gympass)
+* Follow us @gympasscareers
+
+## Brief summary on the daily life of a software engineer at Gympass
+You will have the opportunity to work with:
 
 - Large and scalable distributed systems
 - Building event-driven systems
