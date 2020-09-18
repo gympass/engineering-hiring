@@ -41,4 +41,4 @@ If you are interested in knowing more about our culture, day to day activities a
 * [Linkedin](https://www.linkedin.com/company/2624908/admin/)
 * [Meetup](https://www.meetup.com/pt-BR/Gympass-Tecnology/)
 * [Medium](https://medium.com/gympass)
-* Follow us @gympasscareers
+* Follow us [@gympasscareers](https://www.instagram.com/gympasscareers)
