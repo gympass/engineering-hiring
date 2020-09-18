@@ -32,6 +32,7 @@ You will have the opportunity to work with:
 - RabbitMQ and Kafka
 - AWS ecosystem (EKS, RDS, API Gateway, Load Balancer, and so on)
 - Infrastructure as code
+- Futher details on [Stackshare.io](https://stackshare.io/gympass/gympass)
 
 Given that, we know that you are already convinced to join us :sunglasses:, so [here](interview-study-guide/README.md) you can find some material to support you to get prepared for the interview with our tech team.
 <br/>
