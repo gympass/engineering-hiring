@@ -33,6 +33,8 @@ You will have the opportunity to work with:
 Given that, we know that you are already convinced to join us :sunglasses:, so [here](interview-study-guide/README.md) you can find some material to support you to get prepared for the interview with our tech team.
 <br/>
 
+[Study guide](interview-study-guide/README.md)
+
 ### Find out more about us:
 If you are interested in knowing more about our culture, day to day activities and participating in events, don't forget to follow these pages.
 * [Linkedin](https://www.linkedin.com/company/2624908/admin/)
