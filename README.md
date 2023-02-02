@@ -1,15 +1,22 @@
 
-## Engineering at Gympass
+## Tech Life at Gympass
 
-Gympass is here to defeat inactivity and to help you find an activity to love. Spanning across 12 countries with over 800 activities, Gympass partners with companies to offer their employees unlimited access to the world's largest fitness network. Our company has over 1000 employees worldwide fighting to make the world a healthier place.
+#### About us
 
-We truly believe that technology is the heart of the company, so here you will find passionate engineers that are always looking for delivering top-notch solutions.
+We are a high-growth technology company disrupting the health and wellness space! From workouts and personal trainers to therapy and nutrition, Gympass is a complete corporate wellness platform that ignites and fuels every journey to feel good. We're reinventing wellbeing, making it engaging and accessible. Founded in 2012 and headquartered in New York, Gympass has 1600+ employees in 11 countries around the world. 
 
-If you are here, it means you are interested in joining us. :smile:
+Technology is at the heart of our business: we are creating the best digital solution to help people achieve their wellbeing. We have a growing Tech team of 370+ Gympassers and 3 tech hubs, located in Brazil, Portugal, and the United States. We are divided into multicultural tribes and squads with a strong agile mindset. 
 
+Here you’ll find passionate engineers focused on providing top-notch solutions and working with the latest technologies. Gympassers are…
+- Curious to learn and solve new technical challenges 
+- Versatile and able to adapt to different situations 
+- Collaborating with teams from all over the world
+- Critical thinkers that make decisions based on data
+- Eager to bring new ideas and aren’t afraid to take ownership! 😄
 
-### Brief summary on the daily life of a software engineer at Gympass
-You will have the opportunity to work with:
+#### Software engineering at Gympass
+
+At Gympass, Software Engineers have the opportunity to work with:
 
 - Large and scalable distributed systems
 - Building event-driven systems
@@ -30,13 +37,10 @@ You will have the opportunity to work with:
 - Infrastructure as code
 - Futher details on [Stackshare.io](https://stackshare.io/gympass/gympass)
 
-Given that, we know that you are already convinced to join us :sunglasses:, so [here](interview-study-guide/README.md) you can find some material to support you to get prepared for the interview with our tech team.
-<br/>
+Sounds fun? 😎 In our [Study guide](interview-study-guide/README.md) you’ll find all the resources and guidelines that will help you prepare for interviews.
 
-[Study guide](interview-study-guide/README.md)
-
-### Find out more about us:
-If you are interested in knowing more about our culture, day to day activities and participating in events, don't forget to follow these pages.
+#### Learn more
+If you are interested in seeing more about our daily life, culture, and values, follow these pages: 
 * [Linkedin](https://www.linkedin.com/company/2624908/admin/)
 * [Meetup](https://www.meetup.com/pt-BR/Gympass-Tecnology/)
 * [Medium](https://medium.com/gympass)
