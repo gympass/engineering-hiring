@@ -42,6 +42,5 @@ Sounds fun? 😎 In our [Study guide](interview-study-guide/README.md) you’ll 
 #### Learn more
 If you are interested in seeing more about our daily life, culture, and values, follow these pages: 
 * [Linkedin](https://www.linkedin.com/company/2624908/admin/)
-* [Meetup](https://www.meetup.com/pt-BR/Gympass-Tecnology/)
 * [Medium](https://medium.com/gympass)
 * [Instagram](https://www.instagram.com/gympasscareers)
