@@ -12,7 +12,7 @@ Study guide:
 ### Architecture Design
 Whiteboard session, at this moment we will design the architecture of a common business that makes part of our daily life.
 So don't worry, for sure you will be familiar with the problem, and again, feel comfortable talking with the interviewers as much as you can.
-Usually, we do this section using the http://draw.io/ tool.
+Usually, we do this section using the [Draw IO](http://draw.io/) or [Google Jamboard](https://jamboard.google.com/) tool.
 
 Study guide: https://github.com/donnemartin/system-design-primer
 
@@ -25,6 +25,9 @@ Study guide: https://github.com/donnemartin/system-design-primer
 - APIs - Martin Fowler Blog - [link](https://martinfowler.com/articles/richardsonMaturityModel.html)
 - Testing - Martin Fowler Blog- [link](https://martinfowler.com/testing/)
 - Test-Driven Development: By Example - [link](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+- Javascript Advanced Concepts - [link](https://www.udemy.com/course/understand-javascript)
+- Developer Roadmaps - [link](https://roadmap.sh/roadmaps)
+- OWASP Top Ten - [link](https://owasp.org/www-project-top-ten/)
 
 ### Useful tips
 - Be relaxed at the interview, mind that there are multiple ways to resolve the same problem, start with a simple solution and after we can improve it
