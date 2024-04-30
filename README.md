@@ -1,5 +1,5 @@
 
-## Tech Life at Gympass
+## Tech Life at Wellhub
 
 #### About us
 
