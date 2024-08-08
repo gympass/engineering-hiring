@@ -44,8 +44,8 @@ Sounds fun? 😎 In our [Study guide](interview-study-guide/README.md) you’ll 
 
 #### Learn more
 If you are interested in seeing more about our daily life, culture, and values, follow these pages: 
-* [Linkedin](https://www.linkedin.com/company/2624908/admin/)
-* [Instagram](https://www.instagram.com/gympasscareers)
-* [Medium](https://medium.com/gympass)
+* [Linkedin](https://www.linkedin.com/company/wellhub/)
+* [Instagram](https://www.instagram.com/lifeatwellhub/?hl=en)
+* [Medium](https://medium.com/wellhub-tech-team)
 * [StackShare](https://stackshare.io/wellhub/wellhub#team)
   
