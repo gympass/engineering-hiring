@@ -23,6 +23,7 @@ At this session it is expected that you interact with the interviewer as much as
 It's not expected to create the best solution in the first moment, we expect you to know the limitations of the solution and what could be improved. So stay comfortable with the basic data structures as time and space complexity.
 
 Study guide:
+
 - Cracking the Coding Interview - [link](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - Hackerrank - [link](https://www.hackerrank.com/)
 - GreatFrontEnd - [link](https://www.greatfrontend.com/front-end-interview-guidebook/algorithms)
