@@ -33,18 +33,25 @@ Usually, we do this section using the [Draw IO](http://draw.io/) or [Excalidraw]
 
 Study guide: https://www.greatfrontend.com/system-design
 
-### Helpful content of best practices of software development
-- Pragmatic Programmer, The: From Journeyman to Master - [link](https://www.amazon.com/-/pt/Pragmatic-Programmer-Journeyman-Master-ebook-dp-B003GCTQAE/dp/B003GCTQAE)
-- DDD - Martin Fowler Blog - [link](https://martinfowler.com/tags/domain%20driven%20design.html)
-- Domain-Driven Design: Tackling Complexity in the Heart of Software - [link](https://www.amazon.com/-/pt/Evans-Eric-ebook/dp/B00794TAUG/)
-- Building Microservices: Designing Fine-Grained Systems - [link](https://www.amazon.com/-/pt/Sam-Newman-ebook/dp/B00T3N7XB4/)
-- Clean Code: A Handbook of Agile Software Craftsmanship - [link](https://www.amazon.com/-/pt/Clean-Code-Handbook-Software-Craftsmanship-ebook-dp-B001GSTOAM/dp/B001GSTOAM/)
-- APIs - Martin Fowler Blog - [link](https://martinfowler.com/articles/richardsonMaturityModel.html)
-- Testing - Martin Fowler Blog- [link](https://martinfowler.com/testing/)
-- Test-Driven Development: By Example - [link](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
-- Javascript Advanced Concepts - [link](https://www.udemy.com/course/understand-javascript)
-- Developer Roadmaps - [link](https://roadmap.sh/roadmaps)
-- OWASP Top Ten - [link](https://owasp.org/www-project-top-ten/)
+### Helpful content of Frontend Best Practices and Resources
+- **Frontend Developer Handbook** - [Frontend Developer Handbook](https://frontendmasters.com/guides/front-end-handbook/2024/)
+- **JavaScript Info** - [JavaScript Info](https://javascript.info/)
+- **You Don't Know JS (Book Series)** by Kyle Simpson - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- **CSS Tricks - Complete Guide to Flexbox and Grid** 
+  - [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- **Frontend Architecture for Design Systems** by Micah Godbolt - [Frontend Architecture for Design Systems](https://a.co/d/e2zqd9v)
+- **JavaScript: The Good Parts** by Douglas Crockford - [JavaScript: The Good Parts](https://a.co/d/at3ZYry)
+- **Web Performance Optimization by Google** - [Web Performance Optimization](https://developers.google.com/web/fundamentals/performance)
+- **State of CSS** - [State of CSS](https://stateofcss.com/en-US)
+- **Smashing Magazine** - [Smashing Magazine](https://www.smashingmagazine.com/)
+- **MDN Web Docs** - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- **Frontend Masters** - [Frontend Masters](https://frontendmasters.com/)
+- **JavaScript Design Patterns** by Addy Osmani - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- **Developer Roadmaps** - [Developer Roadmaps](https://roadmap.sh/roadmaps)
+- **Clean Code**: A Handbook of Agile Software Craftsmanship - [link](https://www.amazon.com/-/pt/Clean-Code-Handbook-Software-Craftsmanship-ebook-dp-B001GSTOAM/dp/B001GSTOAM/)
+- **Testing** - [Martin Fowler Blog](https://martinfowler.com/testing/)
+
 
 ### Useful tips
 - Be relaxed at the interview, mind that there are multiple ways to resolve the same problem, start with a simple solution and after we can improve it
