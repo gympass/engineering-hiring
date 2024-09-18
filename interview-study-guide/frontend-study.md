@@ -60,7 +60,6 @@ Usually, we do this section using the [Draw IO](http://draw.io/) or [Excalidraw]
 - **Clean Code**: A Handbook of Agile Software Craftsmanship - [link](https://www.amazon.com/-/pt/Clean-Code-Handbook-Software-Craftsmanship-ebook-dp-B001GSTOAM/dp/B001GSTOAM/)
 - **Testing** - [Martin Fowler Blog](https://martinfowler.com/testing/)
 
-
 ### Useful tips
 
 - Be relaxed at the interview, mind that there are multiple ways to resolve the same problem, start with a simple solution and after we can improve it
