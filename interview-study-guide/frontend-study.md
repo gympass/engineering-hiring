@@ -1,10 +1,13 @@
 ## Frontend engineer study guide
 
 ### Technical topics
+
 This session aims to understand your experience through technical questions. We will cover frontend-focused topics, including styling, JavaScript fundamentals, web/mobile frameworks, best practices, and feature development and delivery processes.
 
 To stand out, provide ample details about the scale, complexity, and impact of your experiences and achievements. See the two examples below:
+
 - Example 1: "Built an application using React + Typescript"
+
 - Example 2: "Developed a responsive single-page application (SPA) dashboard for a SaaS product, enabling users to manage their subscriptions and track usage analytics efficiently. The dashboard, built with React, Typescript, and Styled Components, reduced customer support inquiries by 15% due to improved usability. The optimized bundle size and lazy-loading implementation resulted in a 30% faster initial load time, contributing to increased user engagement."
 
 Example 2 provided more details about what was worked on and its impact.
@@ -14,6 +17,7 @@ The following list outlines key front-end technical achievements suitable for hi
 Remember to clearly articulate your technical skills and accomplishments. Providing specific examples and quantifiable results will help us better understand your capabilities and how you can contribute to our team. You can check more information [here](https://www.greatfrontend.com/front-end-interview-guidebook/quiz) on how to prepare for front-end interview questions.
 
 ### Algorithm
+
 The algorithm session is based on a practical coding problem, feel free to choose a programming language, and IDE you have the domain.
 At this session it is expected that you interact with the interviewer as much as you can, exposing how you think and what steps are being taken to resolve the problem.
 It's not expected to create the best solution in the first moment, we expect you to know the limitations of the solution and what could be improved. So stay comfortable with the basic data structures as time and space complexity.
@@ -24,16 +28,19 @@ Study guide:
 - GreatFrontEnd - [link](https://www.greatfrontend.com/front-end-interview-guidebook/algorithms)
 
 ### Code Review
+
 We will also have a code review for a PR in a React codebase - if you are not familiar with code reviews or PR (Pull Requests), no need to worry, you can find more information about the topic [here](https://about.gitlab.com/topics/version-control/what-is-code-review/).
 
 ### Architecture Design
+
 Whiteboard session, at this moment we will design the architecture of a common business that makes part of our daily life.
 So don't worry, for sure you will be familiar with the problem, and again, feel comfortable talking with the interviewers as much as you can.
 Usually, we do this section using the [Draw IO](http://draw.io/) or [Excalidraw](https://excalidraw.com/) tool.
 
-Study guide: https://www.greatfrontend.com/system-design
+[Study guide](https://www.greatfrontend.com/system-design)
 
 ### Helpful content of Frontend Best Practices and Resources
+
 - **Frontend Developer Handbook** - [Frontend Developer Handbook](https://frontendmasters.com/guides/front-end-handbook/2024/)
 - **JavaScript Info** - [JavaScript Info](https://javascript.info/)
 - **You Don't Know JS (Book Series)** by Kyle Simpson - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -54,6 +61,7 @@ Study guide: https://www.greatfrontend.com/system-design
 
 
 ### Useful tips
+
 - Be relaxed at the interview, mind that there are multiple ways to resolve the same problem, start with a simple solution and after we can improve it
 - Clear communication is the key to go well in both whiteboard and coding sessions
 - Think about how to test your solution
