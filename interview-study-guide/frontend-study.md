@@ -45,7 +45,7 @@ Usually, we do this section using the [Draw IO](http://draw.io/) or [Excalidraw]
 - **Frontend Developer Handbook** - [Frontend Developer Handbook](https://frontendmasters.com/guides/front-end-handbook/2024/)
 - **JavaScript Info** - [JavaScript Info](https://javascript.info/)
 - **You Don't Know JS (Book Series)** by Kyle Simpson - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- **CSS Tricks - Complete Guide to Flexbox and Grid** 
+- **CSS Tricks - Complete Guide to Flexbox and Grid**
   - [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - **Frontend Architecture for Design Systems** by Micah Godbolt - [Frontend Architecture for Design Systems](https://a.co/d/e2zqd9v)
